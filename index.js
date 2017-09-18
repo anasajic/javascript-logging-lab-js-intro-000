@@ -1,1 +1,3 @@
-console.error("Cao!")
+console.error("Ne valja")
+console.warn("Pazi")
+
